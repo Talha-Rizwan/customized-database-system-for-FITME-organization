@@ -1,0 +1,20 @@
+body{
+    margin:10 0;
+    padding:0;
+    background:url(three.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.qwe{
+    background-color: black;
+    border: 2px solid green;
+    color: yellow;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: -10px 10px;
+    cursor: pointer;
+}
+
