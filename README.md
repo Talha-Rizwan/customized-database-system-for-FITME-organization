@@ -1,7 +1,7 @@
 # customized-database-system-for-FITME-organization
 
-1. Introduction
-FIT-ME APPLICATION
+# Introduction:
+**FIT-ME APPLICATION**
 In these modern days when people all over the world have become so much concerned
 about their health and diet, it is obvious that they continually seek out for a Workout/Gym
 platform.
@@ -17,9 +17,11 @@ members about the
  Nutrient/Calories intake logs
  and many more
 
-FIT-ME should be designed to facilitate a workout application to automate its operations of
+**FIT-ME** should be designed to facilitate a workout application to automate its operations of
 keeping records and store them in the form of a large and user-friendly database further
 facilitating easy access to the personnel.
+
+#Objective
 The objective of the FIT-ME is to provide a system which handles the information of the
 members using the application and maintaining their health care.2. Case Study
 Due to Covid-19 and closure of indoor gyms, an owner of a Gym wants to make
